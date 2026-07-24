@@ -110,16 +110,16 @@ Expected variables inside each file:
 If you use this code, please cite the manuscript:
 
 ```bibtex
-@article {Lopez-Palau2025.10.12.25337835,
-	author = {Lopez-Palau, Nelida E. and Naranjo-Meneses, Pablo and Szendroedi, Julia and Eils, Roland and Kallenberger, Stefan M.},
-	title = {Reinforcement learning optimization of automated insulin delivery in type 1 and type 2 diabetes mellitus},
-	elocation-id = {2025.10.12.25337835},
-	year = {2025},
-	doi = {10.1101/2025.10.12.25337835},
-	publisher = {Cold Spring Harbor Laboratory Press},
-  URL = {https://www.medrxiv.org/content/early/2025/10/14/2025.10.12.25337835},
-	eprint = {https://www.medrxiv.org/content/early/2025/10/14/2025.10.12.25337835.full.pdf},
-	journal = {medRxiv}
+@article{Lopez-Palau2025.10.12.25337835,
+  author       = {Lopez-Palau, Nelida E. and Naranjo-Meneses, Pablo and Szendroedi, Julia and Eils, Roland and Kallenberger, Stefan M.},
+  title        = {Reinforcement learning optimization of automated insulin delivery in type 1 and type 2 diabetes mellitus},
+  elocation-id = {2025.10.12.25337835},
+  year         = {2025},
+  doi          = {10.1101/2025.10.12.25337835},
+  publisher    = {Cold Spring Harbor Laboratory Press},
+  url          = {https://www.medrxiv.org/content/early/2025/10/14/2025.10.12.25337835},
+  eprint       = {https://www.medrxiv.org/content/early/2025/10/14/2025.10.12.25337835.full.pdf},
+  journal      = {medRxiv}
 }
 ```
 

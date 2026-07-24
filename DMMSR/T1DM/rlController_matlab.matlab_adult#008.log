@@ -1,0 +1,197 @@
+Sim Day 000, Time 06:00		
+rlController INIT | subject=adult#008 | pop=Type1 Adult | Gb=130.0 | dailyBasal=25.40U | convFactor=6.00 | cgm_t0=129.0 mg/dL
+t=0  min | Steps=1 | CGM=129.0 | ROC=+0.000 | Mean4-CGM=129.0 | Err=+19.0 | InsLock=1 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | 
+Sim Day 000, Time 06:15		
+t=15 min | Steps=2 | CGM=130.3 | ROC=+0.230 | Mean4-CGM=129.3 | Err=+20.3 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.09
+Sim Day 000, Time 06:30		
+t=30 min | Steps=3 | CGM=131.0 | ROC=+0.466 | Mean4-CGM=129.6 | Err=+21.0 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.17
+Sim Day 000, Time 06:45		
+t=45 min | Steps=4 | CGM=133.2 | ROC=+0.040 | Mean4-CGM=131.9 | Err=+23.2 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.26
+Sim Day 000, Time 07:00		
+t=60 min | Steps=5 | CGM=133.3 | ROC=+0.354 | Mean4-CGM=133.3 | Err=+23.3 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.35
+Sim Day 000, Time 07:15		
+t=75 min | Steps=6 | CGM=133.8 | ROC=+0.721 | Mean4-CGM=133.4 | Err=+23.8 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.43
+Sim Day 000, Time 07:30		
+t=90 min | Steps=7 | CGM=147.3 | ROC=+1.867 | Mean4-CGM=138.8 | Err=+37.3 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.52
+Sim Day 000, Time 07:45		
+t=105 min | Steps=8 | CGM=165.5 | ROC=+1.393 | Mean4-CGM=154.6 | Err=+55.5 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=-0.02 | Cum_Reward=0.50
+Sim Day 000, Time 08:00		
+t=120 min | Steps=9 | CGM=171.0 | ROC=-0.195 | Mean4-CGM=168.9 | Err=+61.0 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.00 | Cum_Reward=0.50
+Sim Day 000, Time 08:15		
+t=135 min | Steps=10 | CGM=175.5 | ROC=-0.105 | Mean4-CGM=175.2 | Err=+65.5 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.00 | Cum_Reward=0.50
+Sim Day 000, Time 08:30		
+t=150 min | Steps=11 | CGM=166.8 | ROC=-1.437 | Mean4-CGM=172.1 | Err=+56.8 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.02 | Cum_Reward=0.53
+Sim Day 000, Time 08:45		
+t=165 min | Steps=12 | CGM=159.0 | ROC=-1.165 | Mean4-CGM=164.3 | Err=+49.0 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.02 | Cum_Reward=0.55
+Sim Day 000, Time 09:00		
+t=180 min | Steps=13 | CGM=150.8 | ROC=-1.041 | Mean4-CGM=154.9 | Err=+40.8 | InsLock=1 | Action=7/16 | rsci_RL=40.00 | InsRate=240.00 pmol/min | Delayed_Reward=0.02 | Cum_Reward=0.56
+Sim Day 000, Time 09:15		
+t=195 min | Steps=14 | CGM=142.2 | ROC=-0.287 | Mean4-CGM=145.7 | Err=+32.2 | InsLock=1 | Action=7/16 | rsci_RL=40.00 | InsRate=240.00 pmol/min | Delayed_Reward=0.00 | Cum_Reward=0.57
+Sim Day 000, Time 09:30		
+t=210 min | Steps=15 | CGM=134.6 | ROC=-0.227 | Mean4-CGM=137.5 | Err=+24.6 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.65
+Sim Day 000, Time 09:45		
+t=225 min | Steps=16 | CGM=127.5 | ROC=-0.346 | Mean4-CGM=129.9 | Err=+17.5 | InsLock=1 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.74
+Sim Day 000, Time 10:00		
+t=240 min | Steps=17 | CGM=122.4 | ROC=-0.404 | Mean4-CGM=124.9 | Err=+12.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.83
+Sim Day 000, Time 10:15		
+t=255 min | Steps=18 | CGM=119.6 | ROC=+0.098 | Mean4-CGM=121.1 | Err=+9.6 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=0.91
+Sim Day 000, Time 10:30		
+t=270 min | Steps=19 | CGM=119.2 | ROC=+0.094 | Mean4-CGM=118.8 | Err=+9.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.00
+Sim Day 000, Time 10:45		
+t=285 min | Steps=20 | CGM=119.6 | ROC=+0.125 | Mean4-CGM=119.2 | Err=+9.6 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.09
+Sim Day 000, Time 11:00		
+t=300 min | Steps=21 | CGM=116.4 | ROC=-0.285 | Mean4-CGM=118.4 | Err=+6.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.17
+Sim Day 000, Time 11:15		
+t=315 min | Steps=22 | CGM=116.9 | ROC=-0.143 | Mean4-CGM=117.6 | Err=+6.9 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.26
+Sim Day 000, Time 11:30		
+t=330 min | Steps=23 | CGM=115.2 | ROC=-0.118 | Mean4-CGM=115.9 | Err=+5.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.35
+Sim Day 000, Time 11:45		
+t=345 min | Steps=24 | CGM=119.4 | ROC=+0.142 | Mean4-CGM=118.1 | Err=+9.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.43
+Sim Day 000, Time 12:00		
+t=360 min | Steps=25 | CGM=115.4 | ROC=-1.131 | Mean4-CGM=118.1 | Err=+5.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.52
+Sim Day 000, Time 12:15		
+t=375 min | Steps=26 | CGM=120.2 | ROC=-0.312 | Mean4-CGM=119.0 | Err=+10.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.61
+Sim Day 000, Time 12:30		
+t=390 min | Steps=27 | CGM=117.8 | ROC=-0.651 | Mean4-CGM=120.1 | Err=+7.8 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.69
+Sim Day 000, Time 12:45		
+t=405 min | Steps=28 | CGM=121.9 | ROC=+0.125 | Mean4-CGM=120.9 | Err=+11.9 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.78
+Sim Day 000, Time 13:00		
+t=420 min | Steps=29 | CGM=121.6 | ROC=-0.477 | Mean4-CGM=122.8 | Err=+11.6 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.87
+Sim Day 000, Time 13:15		
+t=435 min | Steps=30 | CGM=128.6 | ROC=+0.596 | Mean4-CGM=125.0 | Err=+18.6 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=1.95
+Sim Day 000, Time 13:30		
+t=450 min | Steps=31 | CGM=146.2 | ROC=+0.809 | Mean4-CGM=138.1 | Err=+36.2 | InsLock=1 | Action=2/16 | rsci_RL=6.67 | InsRate=40.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.04
+Sim Day 000, Time 13:45		
+t=465 min | Steps=32 | CGM=172.6 | ROC=+1.140 | Mean4-CGM=161.5 | Err=+62.6 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=-0.02 | Cum_Reward=2.02
+Sim Day 000, Time 14:00		
+t=480 min | Steps=33 | CGM=191.0 | ROC=+0.924 | Mean4-CGM=183.2 | Err=+81.0 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=-0.02 | Cum_Reward=2.01
+Sim Day 000, Time 14:15		
+t=495 min | Steps=34 | CGM=190.4 | ROC=-0.222 | Mean4-CGM=191.8 | Err=+80.4 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.00 | Cum_Reward=2.01
+Sim Day 000, Time 14:30		
+t=510 min | Steps=35 | CGM=171.8 | ROC=-2.217 | Mean4-CGM=182.7 | Err=+61.8 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.04 | Cum_Reward=2.05
+Sim Day 000, Time 14:45		
+t=525 min | Steps=36 | CGM=150.2 | ROC=-1.288 | Mean4-CGM=160.2 | Err=+40.2 | InsLock=1 | Action=7/16 | rsci_RL=40.00 | InsRate=240.00 pmol/min | Delayed_Reward=0.02 | Cum_Reward=2.07
+Sim Day 000, Time 15:00		
+t=540 min | Steps=37 | CGM=133.4 | ROC=-1.249 | Mean4-CGM=141.5 | Err=+23.4 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.02 | Cum_Reward=2.09
+Sim Day 000, Time 15:15		
+t=555 min | Steps=38 | CGM=123.8 | ROC=+0.105 | Mean4-CGM=126.8 | Err=+13.8 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.18
+Sim Day 000, Time 15:30		
+t=570 min | Steps=39 | CGM=117.3 | ROC=-0.107 | Mean4-CGM=120.4 | Err=+7.3 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.26
+Sim Day 000, Time 15:45		
+t=585 min | Steps=40 | CGM=113.2 | ROC=-0.083 | Mean4-CGM=114.8 | Err=+3.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.35
+Sim Day 000, Time 16:00		
+t=600 min | Steps=41 | CGM=112.2 | ROC=-0.611 | Mean4-CGM=113.1 | Err=+2.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.44
+Sim Day 000, Time 16:15		
+t=615 min | Steps=42 | CGM=117.1 | ROC=+0.089 | Mean4-CGM=115.0 | Err=+7.1 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.52
+Sim Day 000, Time 16:30		
+t=630 min | Steps=43 | CGM=116.0 | ROC=-0.321 | Mean4-CGM=116.6 | Err=+6.0 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.61
+Sim Day 000, Time 16:45		
+t=645 min | Steps=44 | CGM=117.1 | ROC=+0.097 | Mean4-CGM=116.7 | Err=+7.1 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.70
+Sim Day 000, Time 17:00		
+t=660 min | Steps=45 | CGM=121.5 | ROC=+0.636 | Mean4-CGM=118.4 | Err=+11.5 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.78
+Sim Day 000, Time 17:15		
+t=675 min | Steps=46 | CGM=119.2 | ROC=+0.075 | Mean4-CGM=118.9 | Err=+9.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.87
+Sim Day 000, Time 17:30		
+t=690 min | Steps=47 | CGM=122.0 | ROC=+0.610 | Mean4-CGM=119.7 | Err=+12.0 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=2.96
+Sim Day 000, Time 17:45		
+t=705 min | Steps=48 | CGM=117.8 | ROC=-0.632 | Mean4-CGM=120.1 | Err=+7.8 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.04
+Sim Day 000, Time 18:00		
+t=720 min | Steps=49 | CGM=121.6 | ROC=-0.925 | Mean4-CGM=121.6 | Err=+11.6 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.13
+Sim Day 000, Time 18:15		
+t=735 min | Steps=50 | CGM=124.8 | ROC=+0.817 | Mean4-CGM=121.7 | Err=+14.8 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.22
+Sim Day 000, Time 18:30		
+t=750 min | Steps=51 | CGM=125.2 | ROC=+1.014 | Mean4-CGM=123.3 | Err=+15.2 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.30
+Sim Day 000, Time 18:45		
+t=765 min | Steps=52 | CGM=122.9 | ROC=-0.034 | Mean4-CGM=122.9 | Err=+12.9 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.39
+Sim Day 000, Time 19:00		
+t=780 min | Steps=53 | CGM=127.0 | ROC=+0.887 | Mean4-CGM=124.1 | Err=+17.0 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.48
+Sim Day 000, Time 19:15		
+t=795 min | Steps=54 | CGM=120.2 | ROC=+0.222 | Mean4-CGM=121.3 | Err=+10.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.56
+Sim Day 000, Time 19:30		
+t=810 min | Steps=55 | CGM=118.3 | ROC=-0.235 | Mean4-CGM=118.6 | Err=+8.3 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.65
+Sim Day 000, Time 19:45		
+t=825 min | Steps=56 | CGM=114.4 | ROC=-0.902 | Mean4-CGM=117.4 | Err=+4.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.74
+Sim Day 000, Time 20:00		
+t=840 min | Steps=57 | CGM=119.2 | ROC=+0.860 | Mean4-CGM=115.4 | Err=+9.2 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.82
+Sim Day 000, Time 20:15		
+t=855 min | Steps=58 | CGM=127.1 | ROC=+0.430 | Mean4-CGM=123.0 | Err=+17.1 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=3.91
+Sim Day 000, Time 20:30		
+t=870 min | Steps=59 | CGM=150.2 | ROC=+1.545 | Mean4-CGM=138.9 | Err=+40.2 | InsLock=1 | Action=16/16 | rsci_RL=100.00 | InsRate=600.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.00
+Sim Day 000, Time 20:45		
+t=885 min | Steps=60 | CGM=167.3 | ROC=+1.079 | Mean4-CGM=158.8 | Err=+57.3 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=-0.02 | Cum_Reward=3.98
+Sim Day 000, Time 21:00		
+t=900 min | Steps=61 | CGM=166.9 | ROC=-0.284 | Mean4-CGM=168.4 | Err=+56.9 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.00 | Cum_Reward=3.98
+Sim Day 000, Time 21:15		
+t=915 min | Steps=62 | CGM=152.4 | ROC=-1.048 | Mean4-CGM=160.8 | Err=+42.4 | InsLock=1 | Action=15/16 | rsci_RL=93.33 | InsRate=560.00 pmol/min | Delayed_Reward=0.02 | Cum_Reward=4.00
+Sim Day 000, Time 21:30		
+t=930 min | Steps=63 | CGM=132.6 | ROC=-1.690 | Mean4-CGM=143.1 | Err=+22.6 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.03 | Cum_Reward=4.03
+Sim Day 000, Time 21:45		
+t=945 min | Steps=64 | CGM=116.9 | ROC=-1.731 | Mean4-CGM=125.8 | Err=+6.9 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.11
+Sim Day 000, Time 22:00		
+t=960 min | Steps=65 | CGM=111.4 | ROC=-0.515 | Mean4-CGM=114.9 | Err=+1.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.20
+Sim Day 000, Time 22:15		
+t=975 min | Steps=66 | CGM=109.5 | ROC=-0.529 | Mean4-CGM=111.3 | Err=-0.5 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.29
+Sim Day 000, Time 22:30		
+t=990 min | Steps=67 | CGM=114.9 | ROC=+0.834 | Mean4-CGM=111.5 | Err=+4.9 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.37
+Sim Day 000, Time 22:45		
+t=1005 min | Steps=68 | CGM=115.1 | ROC=-0.693 | Mean4-CGM=115.9 | Err=+5.1 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.46
+Sim Day 000, Time 23:00		
+t=1020 min | Steps=69 | CGM=118.3 | ROC=+0.401 | Mean4-CGM=117.0 | Err=+8.3 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.55
+Sim Day 000, Time 23:15		
+t=1035 min | Steps=70 | CGM=118.0 | ROC=+0.440 | Mean4-CGM=117.2 | Err=+8.0 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.63
+Sim Day 000, Time 23:30		
+t=1050 min | Steps=71 | CGM=121.3 | ROC=+0.566 | Mean4-CGM=118.8 | Err=+11.3 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.72
+Sim Day 000, Time 23:45		
+t=1065 min | Steps=72 | CGM=116.4 | ROC=-0.342 | Mean4-CGM=117.6 | Err=+6.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.81
+Sim Day 000, Time 00:00		
+t=1080 min | Steps=73 | CGM=116.0 | ROC=-0.821 | Mean4-CGM=117.6 | Err=+6.0 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.89
+Sim Day 000, Time 00:15		
+t=1095 min | Steps=74 | CGM=116.5 | ROC=+0.764 | Mean4-CGM=115.3 | Err=+6.5 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=4.98
+Sim Day 000, Time 00:30		
+t=1110 min | Steps=75 | CGM=114.3 | ROC=-0.590 | Mean4-CGM=116.2 | Err=+4.3 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.07
+Sim Day 000, Time 00:45		
+t=1125 min | Steps=76 | CGM=121.0 | ROC=+0.711 | Mean4-CGM=116.8 | Err=+11.0 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.15
+Sim Day 000, Time 01:00		
+t=1140 min | Steps=77 | CGM=119.8 | ROC=-0.623 | Mean4-CGM=121.5 | Err=+9.8 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.24
+Sim Day 000, Time 01:15		
+t=1155 min | Steps=78 | CGM=122.4 | ROC=+0.527 | Mean4-CGM=120.2 | Err=+12.4 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.33
+Sim Day 000, Time 01:30		
+t=1170 min | Steps=79 | CGM=125.6 | ROC=+0.709 | Mean4-CGM=122.7 | Err=+15.6 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.41
+Sim Day 000, Time 01:45		
+t=1185 min | Steps=80 | CGM=127.2 | ROC=+1.271 | Mean4-CGM=124.4 | Err=+17.2 | InsLock=1 | Action=2/16 | rsci_RL=6.67 | InsRate=40.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.50
+Sim Day 000, Time 02:00		
+t=1200 min | Steps=81 | CGM=121.3 | ROC=-0.498 | Mean4-CGM=124.6 | Err=+11.3 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.59
+Sim Day 000, Time 02:15		
+t=1215 min | Steps=82 | CGM=120.0 | ROC=-0.636 | Mean4-CGM=122.8 | Err=+10.0 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.67
+Sim Day 000, Time 02:30		
+t=1230 min | Steps=83 | CGM=121.5 | ROC=+0.064 | Mean4-CGM=121.5 | Err=+11.5 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.76
+Sim Day 000, Time 02:45		
+t=1245 min | Steps=84 | CGM=123.7 | ROC=+0.526 | Mean4-CGM=122.7 | Err=+13.7 | InsLock=0 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.85
+Sim Day 000, Time 03:00		
+t=1260 min | Steps=85 | CGM=125.8 | ROC=-0.396 | Mean4-CGM=125.8 | Err=+15.8 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=5.93
+Sim Day 000, Time 03:15		
+t=1275 min | Steps=86 | CGM=128.6 | ROC=-0.396 | Mean4-CGM=127.6 | Err=+18.6 | InsLock=1 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.02
+Sim Day 000, Time 03:30		
+t=1290 min | Steps=87 | CGM=129.7 | ROC=+0.173 | Mean4-CGM=128.6 | Err=+19.7 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.11
+Sim Day 000, Time 03:45		
+t=1305 min | Steps=88 | CGM=131.0 | ROC=+0.354 | Mean4-CGM=129.6 | Err=+21.0 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.19
+Sim Day 000, Time 04:00		
+t=1320 min | Steps=89 | CGM=129.6 | ROC=+0.410 | Mean4-CGM=130.0 | Err=+19.6 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.28
+Sim Day 000, Time 04:15		
+t=1335 min | Steps=90 | CGM=129.5 | ROC=-0.102 | Mean4-CGM=130.3 | Err=+19.5 | InsLock=1 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.37
+Sim Day 000, Time 04:30		
+t=1350 min | Steps=91 | CGM=132.5 | ROC=+0.597 | Mean4-CGM=130.3 | Err=+22.5 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.45
+Sim Day 000, Time 04:45		
+t=1365 min | Steps=92 | CGM=132.4 | ROC=+0.767 | Mean4-CGM=132.3 | Err=+22.4 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.54
+Sim Day 000, Time 05:00		
+t=1380 min | Steps=93 | CGM=133.1 | ROC=-0.207 | Mean4-CGM=132.9 | Err=+23.1 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.63
+Sim Day 000, Time 05:15		
+t=1395 min | Steps=94 | CGM=135.4 | ROC=+0.802 | Mean4-CGM=132.9 | Err=+25.4 | InsLock=1 | Action=6/16 | rsci_RL=33.33 | InsRate=200.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.71
+Sim Day 000, Time 05:30		
+t=1410 min | Steps=95 | CGM=133.9 | ROC=+0.676 | Mean4-CGM=134.0 | Err=+23.9 | InsLock=1 | Action=3/16 | rsci_RL=13.33 | InsRate=80.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.80
+Sim Day 000, Time 05:45		
+t=1425 min | Steps=96 | CGM=131.5 | ROC=-0.614 | Mean4-CGM=132.7 | Err=+21.5 | InsLock=1 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.89
+Sim Day 001, Time 06:00		
+t=1440 min | Steps=97 | CGM=129.6 | ROC=-0.816 | Mean4-CGM=131.8 | Err=+19.6 | InsLock=1 | Action=1/16 | rsci_RL=0.00 | InsRate=0.00 pmol/min | Delayed_Reward=0.09 | Cum_Reward=6.97
+
+24h-RESUME | subject=adult#008 | Total_Steps=97 |  Total_Reward=6.97 |  Average_Reward=0.072
